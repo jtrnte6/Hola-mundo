@@ -1,7 +1,2 @@
-print ("Hola GitHub")
-name = input("¿Como te llamas?")
-print ("Hola", name)
-
-print Hola
-print Hola
-print Hola
+ingrediente = input("Que ingrediente eliges?")
+print ("Quieres una hamburguesa con", ingrediente, "?")
